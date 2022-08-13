@@ -2,7 +2,6 @@
 - 👀 I’m interested in IT field
 - 🌱 I’m currently learning Web and Software Development
 - 💞️ I’m looking to collaborate on good company
-- 📫 How to reach me ...
 
 <!---
 PravinViswa/PravinViswa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
