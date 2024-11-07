@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PravinViswa
-- 👀 I’m interested in IT field
-- 🌱 I’m currently learning Web and Software Development
-- 💞️ I’m looking to collaborate on good company
+- 👀 I’m working as Product Engineer
+- 🌱 I’m currently learning Web and Development works
 
 <!---
 PravinViswa/PravinViswa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
